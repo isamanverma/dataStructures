@@ -71,7 +71,7 @@ int main(void)
 {
     vector<int> arr = {10, 20, 30, 40};
     // vector<int> arr = {5, 5, 5, 5};
-    int m = 2;
+    int m = 3;
     cout << allocate(arr, m) << endl;
     return 0;
 }
